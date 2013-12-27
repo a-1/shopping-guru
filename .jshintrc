@@ -1,0 +1,20 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "undef": true,
+  "trailing": true,
+  "node": true,
+  "browser": true,
+  "indent": 2,
+  "camelcase": false,
+  "quotmark": "single",
+  "maxlen": 120,
+  "predef": [
+    "describe",
+    "beforeEach",
+    "it",
+    "afterEach",
+    "InternalOAuthError",
+    "define"
+  ]
+}

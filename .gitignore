@@ -10,6 +10,12 @@ lib-cov
 pids
 logs
 results
+lib
+css
+test
+img
 
 npm-debug.log
 node_modules
+bower_components
+.DS_Store

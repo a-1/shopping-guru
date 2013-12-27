@@ -1,0 +1,16 @@
+{
+  "name": "shopping-guru",
+  "version": "0.0.2",
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "angular-touch": "latest",
+    "angular-animate": "latest",
+    "bootstrap": "latest",
+    "underscore": "latest",
+    "d3": "latest",
+    "requirejs": "latest",
+    "almond": "latest"
+  }
+}
